@@ -14,8 +14,8 @@ logger = logging.getLogger('clustering')
 logging.basicConfig(level=logging.INFO)
 
 # Spotify Credintals
-SPOTIPY_CLIENT_ID = "b887abd261c44a2cbd08e4cfeea6adc4"
-SPOTIPY_CLIENT_SECRET = "6aeef34ea02e47349f318fa66f7e5e71"
+SPOTIPY_CLIENT_ID = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+SPOTIPY_CLIENT_SECRET = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 SPOTIPY_REDIRECT_URI = "http://localhost/"
 
 # Create Spotifiy Session wth Oauth, using Streamlit Cache Could help with login Loops
