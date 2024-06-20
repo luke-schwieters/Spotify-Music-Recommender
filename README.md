@@ -47,4 +47,6 @@ Welcome to the Spotify New Music Recommender! This project leverages Spotify's A
 6. **Add Songs**: Use the buttons to add recommended songs to your queue or playlist.
 
 ## Images
+![image](https://github.com/Ukelay11/Spotify-Music-Recommender/assets/82103885/b5bb014c-d6c3-4226-9077-466dd739c81a)
+![image](https://github.com/Ukelay11/Spotify-Music-Recommender/assets/82103885/85149191-5b12-42da-8e7a-dcd654b519e9)
 
