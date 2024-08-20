@@ -1,6 +1,7 @@
 import argparse
 import logging
 import numpy as np
+import sklearn
 from sklearn.decomposition import PCA
 import spotipy
 from spotipy.oauth2 import SpotifyOAuth
